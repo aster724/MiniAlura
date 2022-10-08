@@ -40,3 +40,16 @@
     display: flex;
     width: 23%;
 }
+
+.videoSobre .container{ display: flex;}
+
+/* Resposive*/
+
+.headerPrincipal .container{
+    flex-direction: column;
+    align-items: initial;
+    text-align: center;
+}
+.headerPrincipal-nav{
+    flex-direction: column;
+}
